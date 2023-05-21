@@ -1,4 +1,6 @@
 # Avant
+## I am not in the community anymore! Do not contact me.
+
 Nobody leaked anything, don't buy a version of any Avant console, trust me, you are being ripped off, and possibly being given malware.
 There shouldn't be anybody taking credit or "in power" for leaking something that isn't theirs, stop trying to profit off of the work of others, it's disrespectful and despicable.
 
