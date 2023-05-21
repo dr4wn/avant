@@ -1,0 +1,7 @@
+{
+	"robloxLsp.diagnostics.disable": [
+		"deprecated",
+		"redefined-local"
+	],
+	"discord.enabled": true
+}
